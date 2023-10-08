@@ -1,2 +1,4 @@
 hi again 2 file
-goodbye?
+but
+modified in branch1
+
